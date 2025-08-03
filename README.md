@@ -4,10 +4,6 @@
   <img src="https://i.ibb.co/PGSJ6Rn/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header GIF">
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!;+I'm+Venkatesh+aka+Orbit+PSD;+Welcome+to+My+World!" />
-</h1>
-
 <h3 align="center">🚀 Startup Builder | Backend Dev | Product Hacker</h3>
 
 <br/>
